@@ -5,7 +5,7 @@ This project simulates a simple firewall using Python scripts. It reads firewall
 
 ## File Structure
 - `config/firewall_rules.json`: Configuration file for firewall rules.
-- `logs/firewall_log.txt`: Log file for recording allowed and blocked connections.
+- `logs/firewall_log.txt`: Log file for recording allowed and blocked connections .
 - `scripts/config_loader.py`: Helper script to load firewall configuration.
 - `scripts/firewall_simulator.py`: Main script for simulating firewall behavior.
 - `scripts/network_monitor.py`: Script for capturing network traffic using `tcpdump`.
